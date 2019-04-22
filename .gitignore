@@ -1,0 +1,10 @@
+myModels/imagenet12-vgg-vd-16-bnorm-simplenn/deployed
+modelZoo
+myModels/xferLearning/imagenet-vgg-verydeep-16/deployed
+myModels/xferLearning/imagenet-vgg-verydeep-16
+myModels/xferLearning/net-epoch-10/deployed
+myModels/xferLearning
+novelObjects/color
+novelObjects/features
+novelObjects/gray
+novelObjects/original
